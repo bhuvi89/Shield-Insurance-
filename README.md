@@ -6,10 +6,10 @@ This project provides an in-depth analysis of Shield Insurance's customer demogr
  https://shorturl.at/z8dHS 
 
 # Key Performance Indicators
-Total Customers: 26,841
-Total Revenue: 989.26M
-Daily Revenue Growth: 5.47M
-Daily Customer Growth: 148.29
+* Total Customers: 26,841
+* Total Revenue: 989.26M
+* Daily Revenue Growth: 5.47M
+* Daily Customer Growth: 148.29
 # Insights
 * March 2023 saw the highest number of customers and revenue, with impressive daily growth rates.
 * Delhi leads in customers and revenue, while Indore records the lowest figures.
